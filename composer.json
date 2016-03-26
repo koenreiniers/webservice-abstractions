@@ -1,0 +1,20 @@
+{
+  "name": "koenreiniers/webservice-abstractions",
+  "type": "library",
+  "description": "Webservice abstractions",
+  "keywords": ["ws", "webservice", "api", "soap", "magento"],
+  "homepage": "http://www.koenreiniers.nl/",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Koen Reiniers",
+      "email": "contact@koenreiniers.nl",
+      "homepage": "http://www.koenreiniers.nl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Kr\\Ws\\": "src/"}
+  },
+  "require": {
+  }
+}
